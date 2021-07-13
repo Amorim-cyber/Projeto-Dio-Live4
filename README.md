@@ -18,6 +18,21 @@
     <br>
 </div>
 
+
+<div style="background-color: rgb(60, 179, 113); border-radius: 3px;">
+   <p><strong>Segundo COMMIT -> Segregando responsabilidades
+	</strong></p>
+    <ol>
+        <li>Aprendendo o que é uma injeção de dependência. Criamos o arquivo course.service.ts para ser responsável por retornar a lista de cursos.</li>
+        <li>Aprendendo mais sobre os recursos do data binding, uso do _ na frente do atributo apenas quando ele for privado. Foi criado uma barra de busca de cursos.</li>
+        <li>Foi ensinado pipes, uma forma de mudar atributos da página. Podemos utilizar pipes nativos do angular ou criar pipes customizados.</li>
+        <li>Rotas, navegação entre componentes do site. Componentes passam a ser paths/rota ao invés de tags. Novos componentes criados.</li>
+        <li>Adicionando novas rotas ao projeto utilizando o routerlink.</li>
+        <li>Trabalhando com templates de formulários para edição dos dados dos cursos.</li>
+    </ol>
+    <br>
+</div>
+
 #### CourseManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
